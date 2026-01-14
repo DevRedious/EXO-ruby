@@ -1,30 +1,31 @@
-Tempo - Exercices Ruby
+
+Tempo - Ruby Exercises
 ======================
 
 Description
 -----------
 
-Collection d'exercices Ruby nommés `exo_01.rb` → `exo_17.rb` pour s'entraîner aux bases du langage.
+Collection of Ruby exercises named `exo_01.rb` → `exo_17.rb` to practice core language concepts.
 
-Prérequis
----------
+Prerequisites
+-------------
 
-- Ruby installé (version 2.5+ recommandée)
-- Un terminal (Linux / macOS / Windows WSL)
+- Ruby installed (recommended 2.5+)
+- A terminal (Linux / macOS / Windows WSL)
 
-Exécution
----------
+Running an exercise
+-------------------
 
-Pour lancer un exercice depuis le dossier du dépôt :
+From the repository folder run:
 
 ```bash
 ruby exo_01.rb
 ```
 
-Remplacez `exo_01.rb` par le fichier d'exercice souhaité.
+Replace `exo_01.rb` with the exercise file you want to run.
 
-Liste des exercices
--------------------
+Exercise list
+-------------
 
 - [exo_01.rb](exo_01.rb)
 - [exo_02.rb](exo_02.rb)
@@ -47,17 +48,15 @@ Liste des exercices
 Conventions
 -----------
 
-- Chaque exercice est autonome : exécutez directement le fichier correspondant.
-- Si un exercice demande des arguments, la consigne est indiquée en en-tête du fichier.
+- Each exercise is self-contained: run the corresponding file directly.
+- If an exercise requires arguments, the instruction is indicated in the file header.
 
-Contribuer
----------
+Contributing
+------------
 
-Ajoutez de nouveaux exercices en suivant la convention `exo_XX.rb`. Ouvrez une pull request pour proposer vos améliorations.
+Add new exercises following the `exo_XX.rb` naming convention. Open a pull request to propose changes.
 
-
-Auteur
+Author
 ------
 
-Dépot d'entraînement personnel.
-
+Personal practice repository.
