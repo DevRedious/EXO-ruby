@@ -56,7 +56,15 @@ Contributing
 
 Add new exercises following the `exo_XX.rb` naming convention. Open a pull request to propose changes.
 
+
 Author
 ------
 
 Personal practice repository.
+
+Training / Contexte
+-------------------
+
+This repository contains the validating project for my training at The Hacking Project (THP).
+
+Ce dépôt contient le projet validant dans le cadre de ma formation au sein de The Hacking Project (THP).
